@@ -1,0 +1,6 @@
+[book]
+authors = ["d0bhareach"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Ostap"
