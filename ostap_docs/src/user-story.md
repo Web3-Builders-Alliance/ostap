@@ -3,43 +3,21 @@
 
 ## The Idea
 Main Idea behind this project is that before you invest big in your smart contract you must test it.
-So contacts supposed to be the ones with limited ammount of funds. And must to be sandboxed.
-1. There is a developer who would like to check his smart contract for
-security breaches. So instead of trying to keep low he would advertise on Oscar
-platform saying something like: "Hack me if you can!". So this platform is for hackers.
-Surprise!   
-2. So far as I understad final goal of every hacker is to get
-funds away from smart contract, guess there must be someother options.   
-Back to topic. Contract is created and advertised on the
-platform. In the Contract there must be some funds that developer is betting that no one
-could ever get out or tamper with contract in any way. Developer must decide how much
-he is willing to put at stake. This funds is his payment for the job.   
-3. Main question remains how to make hacker to participate? Or better rephrase: "What is the
-point for hacker to wear a white hat". I need the worst of the worst. Dark as a soul of
-Darth Wader.   
-Even though contracts are 
-executed on decentralized blockchain and are transparent specific details are not immediately
-visible and clear. Extensive monitoring mechanisms should be used to get as much information as
-possible.   
-So hacker had manage to snitch funds, what is the reason for him to disclose information on breaching?
-It must to be profitable! How? He would have two options, first and obvios is to exploit this breach
-on other contracts with similar security issues.
-Problem is that it's illegal (or is it?) and it also takes time. But hacker also like to have
-breackfast every morning and finding an exploit is not an easy task. What to do?
-4. Maybe to make it other way around. Say a developer who is willing to risk some
-funds and a hacker would have simbioses they both must have finantial interest in the
-hack. So developer would bet his funds and hacker who is willing to
-spend his time would starts research. In case if the breakage is achieved hacker has decesion
-to make: take funds (this would leave developer with knowlege that his contract has
-some flawes, which is not so much, but if he was smart and make an extensive monitoring mechanism he must to
-have tons of information on how hacker managed to break his contract), or to make a report with detailed 
-description.
-Than everyone who is interested in reading about this exploit must pay some funds, same as you would by a
-magazine to read about interesting article. This funds would be divided between: hacker (he is the main man 
-and he desirve's the most), developer (he has invested funds and time),
-and to the platform (me, because I'm mummy's little programer).
-Basically it's the way to earn passive income for everyone involved. 
+So contacts supposed to be the ones with limited amount of funds. And must to be sand boxed.
 
+Key Points:
+1. There is a developer who would like to check his smart contract for security breaches. So instead of trying to keep low he would advertise on Oscar Platform saying something like: "Hack me if you can!". So this platform is for hackers. Surprise!   
+2. So far as I understand final goal of every hacker is to get funds away from smart contract, guess there must be some other options.   
+Back to topic. Contract is created and advertised on the platform. In the Contract there must be some funds that developer is betting that no one could ever get out or tamper with contract in any way. Developer must decide how much he is willing to put at stake. This funds is his payment for the job.
+3. Main question remains how to make hacker to participate? Or better rephrase: "What is the point for hacker to wear a white hat". I need the worst of the worst. Dark as a soul of Darth Wader. 
+Even though contracts are executed on decentralized blockchain and are transparent specific details are not immediately visible and clear. Extensive monitoring mechanisms should be used to get as much information as possible. So hacker had manage to snitch funds, what is the reason for him to disclose information on breaching?
+It must to be profitable! How? He would have two options, first and obvious is to exploit this breach on other contracts with similar security issues.
+Problem is that it's illegal (or is it?) and it also takes time. But hacker also like to have breakfast every morning and finding an exploit is not an easy task. What to do?
+4. Maybe to make it other way around. Say a developer who is willing to risk some funds and a hacker would have symbioses they both must have financial interest in the hack. So developer would bet his funds and hacker who is willing to spend his time would starts research. In case if the breakage is achieved hacker has decision
+to make: take funds (this would leave developer with knowledge that his contract has some flaws, which is not so much, but if he was smart and make an extensive monitoring mechanism he must to
+have tons of information on how hacker managed to break his contract), or to make a report with detailed description.
+Than everyone who is interested in reading about this exploit must pay some funds, same as you would by a magazine to read about interesting article. This funds would be divided between: hacker (he is the main man and he deserves the most), developer (he has invested funds and time), and to the platform (me, because I'm mummy's little programmer).
+Basically it's the way to earn passive income for everyone involved. 
 
 ## Issues and considerations
 1. What to do if every hacker decides to keep funds instead of reporting? The only solution
